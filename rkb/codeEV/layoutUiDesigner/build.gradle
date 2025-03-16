@@ -38,5 +38,5 @@ dependencies {
     implementation libs.group.box.layout
     
     implementation 'io.github.Rosemoe.sora-editor:editor:0.22.1'
-    implementation 'io.github.Rosemoe.sora-editor:language-textmate:0.22.1'
+    implementation 'io.github.Rosemoe.sora-editor:language-textmate:0.23.5'
 }
