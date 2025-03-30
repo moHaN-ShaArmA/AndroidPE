@@ -19,7 +19,7 @@ androidx-recyclerview = { module = "androidx.recyclerview:recyclerview", version
 androidx-vectors = { module = "androidx.vectordrawable:vectordrawable", version.ref = "androidx-vectordrawable" }
 androidx-animated_vectors = { module = "androidx.vectordrawable:vectordrawable-animated", version.ref = "androidx-vectordrawable" }
 androidx-splashscreen = { module = "androidx.core:core-splashscreen", version = "1.0.1" }
-androidx-transition = { module = "androidx.transition:transition-ktx", version = "1.4.1" }
+androidx-transition = { module = "androidx.transition:transition-ktx", version = "1.5.1" }
 androidx-nav-fragment = { module = "androidx.navigation:navigation-fragment-ktx", version.ref = "androidx-navigation" }
 androidx-nav-ui = { module = "androidx.navigation:navigation-ui-ktx", version.ref = "androidx-navigation" }
 androidx-nav-dynamic_features = { module = "androidx.navigation:navigation-dynamic-features-fragment", version.ref = "androidx-navigation" }
