@@ -7,7 +7,7 @@ kotlin-coroutines = "1.7.3"
 
 [libraries]
 # AndroidX
-androidx-annotation = { module = "androidx.annotation:annotation", version = "1.8.1" }
+androidx-annotation = { module = "androidx.annotation:annotation", version = "1.9.1" }
 androidx-appcompat = { module = "androidx.appcompat:appcompat", version = "1.7.0" }
 androidx-cardview = { module = "androidx.cardview:cardview", version = "1.0.0" }
 androidx-constraintlayout = { module = "androidx.constraintlayout:constraintlayout", version = "2.1.4" }
