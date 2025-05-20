@@ -2,7 +2,7 @@
 agp = "8.9.1"
 androidx-vectordrawable = "1.2.0"
 androidx-navigation = "2.8.9"
-kotlin = "2.1.20"
+kotlin = "2.1.21"
 kotlin-coroutines = "1.7.3"
 
 [libraries]
